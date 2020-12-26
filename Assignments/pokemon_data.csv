@@ -1,0 +1,135 @@
+name,attack,capture_rate,defense,height_m,hp,speed,weight_kg,Type
+Cutiefly,45,190,40,0.1,40,84,0.2,bug
+Ribombee,55,75,60,0.2,60,124,0.5,bug
+Joltik,47,190,50,0.1,50,65,0.6,bug
+Shedinja,90,45,45,0.8,1,40,1.2,bug
+Surskit,30,200,32,0.5,40,65,1.7,bug
+Kricketot,25,255,41,0.3,37,25,2.2,bug
+Scatterbug,35,255,40,0.3,38,35,2.5,bug
+Sewaddle,53,255,70,0.3,45,42,2.5,bug
+Caterpie,30,255,35,0.3,45,45,2.9,bug
+Weedle,35,255,30,0.3,40,50,3.2,bug
+Burmy,29,120,45,0.2,40,36,3.4,bug
+Wurmple,45,255,35,0.3,45,20,3.6,bug
+Masquerain,60,75,62,0.8,70,80,3.6,bug
+Grubbin,62,255,45,0.4,47,46,4.4,bug
+Venipede,45,255,59,0.4,30,57,5.3,bug
+Paras,70,190,55,0.3,35,25,5.4,bug
+Combee,30,120,42,0.3,30,70,5.5,bug
+Nincada,45,255,90,0.5,31,40,5.5,bug
+Karrablast,75,200,45,0.5,50,60,5.9,bug
+Wormadam,69,45,95,0.5,60,36,6.5,bug
+Pineco,65,190,90,0.6,50,15,7.2,bug
+Swadloon,63,120,90,0.5,55,42,7.3,bug
+Shelmet,40,200,85,0.4,50,25,7.7,bug
+Spewpa,22,120,60,0.3,45,29,8.4,bug
+Spinarak,60,255,40,0.5,40,30,8.5,bug
+Metapod,20,120,55,0.7,50,30,9.9,bug
+Kakuna,25,120,50,0.6,45,35,10,bug
+Silcoon,35,120,55,0.6,50,15,10,bug
+Charjabug,82,120,95,0.5,57,36,10.5,bug
+Ledyba,20,255,30,1,40,55,10.8,bug
+Cascoon,35,120,55,0.7,50,15,11.5,bug
+Wimpod,35,90,40,0.5,25,80,12,bug
+Ninjask,90,120,45,0.8,61,160,12,bug
+Venomoth,65,75,60,1.5,70,90,12.5,bug
+Galvantula,77,75,60,0.8,70,108,14.3,bug
+Dwebble,65,190,85,0.3,50,55,14.5,bug
+Vivillon,52,45,50,1.2,80,89,17,bug
+Illumise,47,150,75,0.6,65,85,17.7,bug
+Volbeat,73,150,75,0.7,65,85,17.7,bug
+Shuckle,10,190,230,0.6,20,5,20.5,bug
+Leavanny,103,45,80,1.2,75,92,20.5,bug
+Mothim,94,45,50,0.9,70,66,23.3,bug
+Accelgor,70,75,40,0.8,80,145,25.3,bug
+Kricketune,85,45,51,1,77,65,25.5,bug
+Beautifly,70,45,50,1,60,65,28.4,bug
+Larvesta,85,45,55,1.1,55,60,28.8,bug
+Beedrill,150,45,40,1,65,145,29.5,bug
+Parasect,95,75,80,1,60,30,29.5,bug
+Venonat,55,190,50,1,60,45,30,bug
+Dustox,50,45,70,1.2,60,65,31.6,bug
+Butterfree,45,45,50,1.1,60,70,32,bug
+Durant,109,90,112,0.3,58,109,33,bug
+Escavalier,135,75,105,1,70,20,33,bug
+Ariados,90,90,70,1.1,70,40,33.5,bug
+Whirlipede,55,120,99,1.2,40,47,58.5,bug
+Goomy,50,45,35,0.3,45,40,2.8,not bug
+Dratini,64,45,45,1.8,41,50,3.3,not bug
+Dragonair,84,45,65,4,61,70,16.5,not bug
+Sliggoo,75,45,53,0.8,68,60,17.5,not bug
+Axew,87,75,60,0.6,46,57,18,not bug
+Gible,70,45,45,0.7,58,42,20.5,not bug
+Altaria,110,45,110,1.1,75,80,20.6,not bug
+Jangmo-o,55,45,65,0.6,45,45,29.7,not bug
+Fraxure,117,60,70,1,66,67,36,not bug
+Latias,100,3,120,1.4,80,110,40,not bug
+Bagon,75,45,60,0.6,45,50,42.1,not bug
+Hakamo-o,75,45,90,1.2,55,65,47,not bug
+Gabite,90,45,65,1.4,68,82,56,not bug
+Latios,130,3,100,2,80,110,60,not bug
+Kommo-o,110,45,125,1.6,75,85,78.2,not bug
+Garchomp,170,45,115,1.9,108,92,95,not bug
+Salamence,145,45,130,1.5,95,120,102.6,not bug
+Haxorus,147,45,90,1.8,76,97,105.5,not bug
+Shelgon,95,45,100,1.1,65,50,110.5,not bug
+Druddigon,120,45,90,1.6,77,48,139,not bug
+Goodra,100,45,70,2,90,80,150.5,not bug
+Rayquaza,180,45,100,7,105,115,206.5,not bug
+Dragonite,134,45,95,2.2,91,80,210,not bug
+Zygarde,100,3,121,5,216,85,284.6,not bug
+Kyurem,120,3,90,3,125,95,325,not bug
+Reshiram,120,3,100,3.2,100,90,330,not bug
+Zekrom,150,3,120,2.9,100,90,345,not bug
+Crabrawler,82,225,57,0.6,47,63,7,not bug
+Pancham,82,220,62,0.6,67,43,8,not bug
+Meditite,40,180,55,0.6,30,60,11.2,not bug
+Timburr,80,180,55,0.6,75,35,12.5,not bug
+Machop,80,180,50,0.8,70,35,19.5,not bug
+Mienfoo,85,180,50,0.9,45,65,20,not bug
+Riolu,70,75,40,0.7,40,60,20.2,not bug
+Tyrogue,35,75,35,0.7,35,35,21,not bug
+Hawlucha,92,100,75,0.8,78,118,21.5,not bug
+Mankey,80,190,35,0.5,40,70,28,not bug
+Medicham,100,90,85,1.3,60,100,31.5,not bug
+Primeape,105,75,60,1,65,95,32,not bug
+Mienshao,125,45,60,1.4,65,105,35.5,not bug
+Gurdurr,105,90,85,1.2,85,40,40,not bug
+Hitmontop,95,45,95,1.4,50,70,48,not bug
+Hitmonlee,120,45,53,1.5,50,87,49.8,not bug
+Hitmonchan,105,45,79,1.4,50,76,50.2,not bug
+Sawk,125,45,75,1.4,75,85,51,not bug
+Lucario,145,45,88,1.2,70,112,54,not bug
+Throh,100,45,85,1.3,120,45,55.5,not bug
+Machoke,100,90,70,1.5,80,45,70.5,not bug
+Passimian,120,45,90,2,100,80,82.8,not bug
+Makuhita,60,180,30,1,72,25,86.4,not bug
+Conkeldurr,140,45,95,1.4,105,45,87,not bug
+Machamp,130,45,80,1.6,90,55,130,not bug
+Pangoro,124,65,78,2.1,95,58,136,not bug
+Crabominable,132,60,77,1.7,97,43,180,not bug
+Hariyama,120,200,60,2.3,144,50,253.8,not bug
+Jirachi,100,3,100,0.3,100,100,1.1,not bug
+Honedge,80,180,100,0.8,45,28,2,not bug
+Klefki,80,75,91,0.2,57,75,3,not bug
+Doublade,110,90,150,0.8,59,35,4.5,not bug
+Mawile,105,45,125,0.6,50,50,11.5,not bug
+Klink,55,130,70,0.3,40,30,21,not bug
+Skarmory,80,25,140,1.7,65,70,50.5,not bug
+Klang,80,60,95,0.6,60,50,51,not bug
+Aegislash,150,45,50,1.7,60,60,53,not bug
+Aron,70,180,100,0.4,50,30,60,not bug
+Bronzor,24,255,86,0.5,57,23,60.5,not bug
+Magearna,95,3,115,1,80,65,80.5,not bug
+Klinklang,100,30,115,0.6,60,90,81,not bug
+Beldum,55,3,80,0.6,40,30,95.2,not bug
+Lairon,90,90,140,0.9,60,40,120,not bug
+Bronzong,89,90,116,1.3,67,33,187,not bug
+Metang,75,3,100,1.2,60,50,202.5,not bug
+Registeel,75,3,150,1.9,80,50,205,not bug
+Cobalion,90,3,129,2.1,91,108,250,not bug
+Aggron,140,45,230,2.1,70,50,360,not bug
+Steelix,125,25,230,9.2,75,30,400,not bug
+Metagross,145,3,150,1.6,80,110,550,not bug
+Dialga,120,3,120,5.4,100,90,683,not bug
+Celesteela,101,25,103,9.2,97,61,999.9,not bug
